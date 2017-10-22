@@ -1,1 +1,1 @@
-# Physically based rendering engine in Rust
+# Physically based rendering engine in Nim.

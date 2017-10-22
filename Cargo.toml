@@ -1,6 +1,0 @@
-[package]
-name = "Luminous"
-version = "0.1.0"
-authors = ["maumau <maumaumaumaumaumaumaumaumaumau@gmail.com>"]
-
-[dependencies]
